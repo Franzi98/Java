@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Soluzione_rompicapodel15
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Soluzione_rompicapodel15\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=n
+comment1.target=int[][]\ piastrelle(int)
+comment2.params=r
+comment2.target=int[][]\ visualizza_piastrelle(Rompicapodel15)
+numComments=3
