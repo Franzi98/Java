@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ProximityStructure
+comment0.text=\r\nUn\u2019istanza\ della\ classe\ ProximityStructure\ consente\ di\ modellare\ una\ collezione\ di\ misure,\ rappresentate\ da\ valori\r\ndi\ tipo\ double,\ manipolabile\ attraverso\ il\ seguente\ protocollo\:\r\n\ new\ ProximityStructure()\ //\ costruisce\ una\ collezione\ vuota\ di\ misure\r\n\ s.size()\ //\ restituisce\ il\ numero\ di\ misure\ contenute\ nella\ collezione\r\n\ s.add(\ x\ )\ //\ aggiunge\ la\ misura\ x\ alla\ collezione\ s\r\n\ s.removeClosestTo(\ x\ )\ //\ rimuove\ da\ s\ e\ restituisce\ la\ misura\ pi\u00F9\ prossima\ a\ x\r\n//\ (la\ cui\ distanza\ da\ x\ \u00E8\ pi\u00F9\ piccola)\ in\ s\r\nCompleta\ la\ defnizione\ della\ classe\ ProximityStructure\ introducendo\ opportune\ variabili\ d\u2019istanza\r\n(rappresentazione\ interna)\ e\ realizzando\ il\ costruttore\ e\ i\ metodi\ coerentemente\ con\ le\ scelte\ implementative\ fatte.\r\n
+comment1.params=
+comment1.target=ProximityStructure()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=x
+comment3.target=void\ add(double)
+comment4.params=x
+comment4.target=double\ removeClosetTo(double)
+numComments=5

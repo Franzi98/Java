@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=esame130617
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ esame130617\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=s
+comment1.target=IntSList\ lis(IntSList)
+comment1.text=Il\ seguente\ programma\ \u00E8\ una\ traduzione\ in\ Java\ del\ codice\ Scheme\ riportato\ all\u2019inizio\ dell\u2019esercizio\ 2,\ dove\ le\ liste\r\nsono\ realizzate\ applicando\ la\ classe\ IntList\ il\ cui\ protocollo\ \u00E8\ specificato\ nell\u2019esercizio\ 3\:
+comment2.params=s\ t
+comment2.target=IntSList\ lisRec(IntSList,\ int)
+comment3.params=u\ v
+comment3.target=IntSList\ longer(IntSList,\ IntSList)
+comment4.params=s
+comment4.target=IntSList\ lisMem(IntSList)
+comment5.params=s\ t\ h
+comment5.target=IntSList\ lis2Rec(IntSList,\ int,\ IntSList[][])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=private\ static\ IntSList\ longerRec(\ IntSList\ u,\ IntSList\ v\ )\ {\r\n\ \ \ \ \ if\ (\ u.length()\ <\ v.length()\ )\ {\r\n\ \ \ \ \ return\ v;\r\n\ \ \ \ \ }\ else\ {\r\n\ \ \ \ \ return\ u;\r\n\ \ \ \ \ }\ \ \ \r\n}
+numComments=7

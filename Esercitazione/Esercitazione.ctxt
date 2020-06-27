@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Esercitazione
+comment1.params=u\ v
+comment1.target=java.lang.String[]\ diff(java.lang.String,\ java.lang.String)
+comment10.params=x\ y\ h
+comment10.target=int\ pMem(int,\ int,\ int[][])
+comment2.params=u\ v
+comment2.target=java.lang.String[]\ diffMem(java.lang.String,\ java.lang.String)
+comment3.params=u\ v\ h
+comment3.target=java.lang.String[]\ diffRec(java.lang.String,\ java.lang.String,\ java.lang.String[][][])
+comment4.params=n\ k
+comment4.target=long\ st(int,\ int)
+comment5.params=p\ n\ k\ cn
+comment5.target=void\ sRec(int,\ int,\ int,\ long[])
+comment6.params=n\ k
+comment6.target=long\ stIter(int,\ int)
+comment7.params=x\ y
+comment7.target=long\ f(int,\ int)
+comment8.params=x\ y
+comment8.target=long\ fDP(int,\ int)
+comment9.params=x\ y
+comment9.target=int\ p(int,\ int)
+numComments=11

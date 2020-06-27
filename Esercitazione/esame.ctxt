@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=esame
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ esame\r\n\ \r\n\ @author\ (il\ tuo\ nome)\ \r\n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\r\n
+comment1.params=u\ v
+comment1.target=java.lang.String[]\ diff(java.lang.String,\ java.lang.String)
+comment2.params=u\ v
+comment2.target=java.lang.String[]\ diffmem(java.lang.String,\ java.lang.String)
+comment3.params=u\ v\ h
+comment3.target=java.lang.String[]\ diffRec(java.lang.String,\ java.lang.String,\ java.lang.String[][])
+numComments=4
